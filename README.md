@@ -18,7 +18,7 @@ plugins and services I make available to others.
 ### Projects & Links
 
 - Personal website: [occhiofly.dev](https://occhiofly.dev) — portfolio, contact info, and available plugins
-- Plugin showcase: [EXILED-Plugins](https://github.com/occhiogt/EXILED-Plugins) — free and custom plugins for SCP:SL
+- Plugin showcase: [EXILED-Plugins](https://github.com/Occhiofly/EXILED-Plugins) — free and custom plugins for SCP:SL
 
 ---
 
