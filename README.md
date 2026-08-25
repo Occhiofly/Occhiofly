@@ -9,15 +9,12 @@ plugins and services I make available to others.
 ### About Me
 
 - **Full-Stack Developer** — I work across different languages and stacks, from backend to frontend
-- **Game Modding & Plugins** — I develop plugins for SCP: Secret Laboratory servers using the Exiled framework, some open source, some available on request
-- **AI & Bots** — I build bots and integrations powered by various AI APIs
-- **Currently working on** — new plugins for an SCP:SL server launching soon
 
 ---
 
 ### Projects & Links
 
-- Personal website: [occhiofly.dev](https://occhiofly.dev) — portfolio, contact info, and available plugins
+
 - Plugin showcase: [EXILED-Plugins](https://github.com/Occhiofly/EXILED-Plugins) — free and custom plugins for SCP:SL
 
 ---
